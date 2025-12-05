@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Karthikeyanmac
-- 👀 I’m Seeking a suitable position to the field of my specialization, where my skills can be both utilized and improved.
 - 🌱 I’m passionate on hardware ux designing...
 - 📫  Constantly enhancing my skills through hands-on projects, like rain detectors and fuel injectors, and exploring Arduino programming for embedded systems.
 - 😄 Pronouns:He/Him
